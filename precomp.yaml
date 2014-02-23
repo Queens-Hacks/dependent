@@ -1,0 +1,10 @@
+key: UIXNxj1S-zj8
+tasks:
+  less:
+    compiler: "less"
+    input: "static/less/main.less"
+    output: "static/css"
+  coffee:
+    compiler: "coffee"
+    input: "static/coffee/main.coffee"
+    output: "static/js"
